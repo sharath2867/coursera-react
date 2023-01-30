@@ -1,0 +1,20 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "coursera git test files",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "git repository:(https://github.com/sharath2867/coursera-react.git)",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/sharath2867/coursera-react.git)"
+  },
+  "author": "sharath",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
